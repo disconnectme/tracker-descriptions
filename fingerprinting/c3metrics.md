@@ -12,7 +12,7 @@ This script is classified as "fingerprinting" for the following reasons:
 
 ### Technical Review
 
-1. C3 Metrics appears to be heavily based on an open source fingerprinting library: `https://github.com/Valve/fingerprintjs2`
+1. C3 Metrics appears to be heavily based on an open source fingerprinting library: `https://github.com/Valve/fingerprintjs2`. It probes difference device properties to fingerprint users
 ```
             getPixelRatio: function() {
                 return window[_0x4dfd("0x118")] || ""
