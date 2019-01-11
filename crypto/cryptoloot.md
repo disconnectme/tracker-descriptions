@@ -12,6 +12,13 @@ This script is classified as "cryptomining" for the following reasons:
 
 ### Technical Review
 
+Crypto-Loot has been identified using the following domains:
+- crypto-loot.com
+- cryptaloot.pro
+- webmine.pro
+- gitgrub.pro
+- statdynamic.com
+
 1. Script contains an implementation of the cryptonight hash algorithm
 
 ```

@@ -12,6 +12,13 @@ This script is classified as "cryptomining" for the following reasons:
 
 ### Technical Review
 
+Coinhive has been identified using the following domains:
+- coinhive.com
+- coin-hive.com
+- cnhv.co
+- authedmine.com
+- wsservices.org
+
 1. Script contains an implementation of the cryptonight hash algorithm
 
 ```
